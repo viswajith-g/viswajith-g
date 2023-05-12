@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Incomming PhD student at the University of Illinois Urbana-Champaign (UIUC), working on Mobile Sensing, Graph Mining, Data Mining, Pervasive Computing, and IoT Systems.
+I'm I'm a Ph.D. student in the Computer Engineering program at the University of Virginia (UVA), advised by Dr. Brad Campbell. My research focuses around applications of sensor networks, sensing modalities, and dealing with energy management for ultralow power sensor class devices.
 
 - [HomePage](https://www.vishgr.com)
 
