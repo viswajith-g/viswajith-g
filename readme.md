@@ -1,10 +1,10 @@
 ### Hello!
 
-I'm a Ph.D. student in the Computer Engineering program at the University of Virginia (UVA), advised by Dr. Brad Campbell. My research focuses around applications of sensor networks, sensing modalities, and dealing with energy management for ultralow power sensor class devices.
+I'm a Ph.D. student in the Computer Engineering program at the University of Virginia (UVA). My research focuses around applications of sensor networks, sensing modalities, and dealing with energy management for ultralow power sensor class devices.
 
 - [HomePage](https://www.cs.virginia.edu/~gyx4bw)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viswajith-g&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Viswajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=viswajith-g&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viswajith-g)](https://github.com/anuraghazra/github-readme-stats)
 
 
